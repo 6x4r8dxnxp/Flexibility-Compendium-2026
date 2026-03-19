@@ -64,8 +64,8 @@ Forecasting, scheduling, and real-time dispatch. Portfolio risk and hedging. ETR
 
 | Language | Format | Link |
 |----------|--------|------|
-| **English** | PDF | [2026_Flexibility_compendium_d6614273-3ff5-428a-a84b-3b64c30b5382.pdf](raw/main/2026_Flexibility_compendium_d6614273-3ff5-428a-a84b-3b64c30b5382.pdf) |
-| **Deutsch** | PDF | [2026_Flexibilitaetskompendium_901a6334-d476-4432-883a-c9908cf7bae6.pdf](raw/main/2026_Flexibilitaetskompendium_901a6334-d476-4432-883a-c9908cf7bae6.pdf) |
+| 🇬🇧 **English** | PDF | [2026_Flexibility_compendium.pdf](2026_Flexibility_compendium_3a22f692-e0ad-43d5-ba87-4544921a4f72.pdf) |
+| 🇩🇪 **Deutsch** | PDF | [2026_Flexibilitaetskompendium.pdf](2026_Flexibilitaetskompendium_03720477-0720-434c-b416-987c381555e5.pdf) |
 
 ---
 
@@ -169,13 +169,6 @@ For questions, feedback, or inquiries about the compendium:
 ---
 
 **Last updated:** March 2026
-
----
-
-## 🚀 Quick Links
-
-- [English PDF](raw/main/2026_Flexibility_compendium_d6614273-3ff5-428a-a84b-3b64c30b5382.pdf)
-- [Deutsch PDF](raw/main/2026_Flexibilitaetskompendium_901a6334-d476-4432-883a-c9908cf7bae6.pdf)
 
 ---
 
