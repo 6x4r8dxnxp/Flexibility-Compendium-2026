@@ -174,8 +174,8 @@ For questions, feedback, or inquiries about the compendium:
 
 ## 🚀 Quick Links
 
-- [English PDF](raw/main/2026_Flexibility_compendium_d6614273-3ff5-428a-a84b-3b64c30b5382.pdf)
-- [Deutsch PDF](raw/main/2026_Flexibilitaetskompendium_901a6334-d476-4432-883a-c9908cf7bae6.pdf)
+- [English PDF]([raw/main/2026_Flexibility_compendium_d6614273-3ff5-428a-a84b-3b64c30b5382.pdf](https://github.com/6x4r8dxnxp/Flexibility-Compendium-2026/blob/main/2026_Flexibility_compendium.pdf ))
+- [Deutsch PDF]([raw/main/2026_Flexibilitaetskompendium_901a6334-d476-4432-883a-c9908cf7bae6.pdf](https://github.com/6x4r8dxnxp/Flexibility-Compendium-2026/blob/main/2026_Flexibilitaetskompendium.pdf))
 
 ---
 
