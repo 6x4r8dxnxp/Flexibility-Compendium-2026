@@ -168,7 +168,7 @@ For questions, feedback, or inquiries about the compendium:
 
 ---
 
-**Last updated:** March 2026
+**Last updated:** June 2026
 
 ---
 
